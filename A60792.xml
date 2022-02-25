@@ -1,0 +1,144 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some equitable considerations, respecting the present controversie between the present East India Company, and the new subscribers or petitioners against them</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60792</idno>
+            <idno type="STC">Wing S4501A</idno>
+            <idno type="STC">ESTC R219113</idno>
+            <idno type="EEBO-CITATION">99830638</idno>
+            <idno type="PROQUEST">99830638</idno>
+            <idno type="VID">35091</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60792)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35091)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2078:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some equitable considerations, respecting the present controversie between the present East India Company, and the new subscribers or petitioners against them</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1698?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>East India Company --  Controversial literature --  Early works to 1800.</term>
+               <term>Great Britain --  Commerce --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:35091:1"/>
+            <head>Some Equitable Conſiderations, Reſpecting the Preſent Controverſie between the Preſent <hi>EAST INDIA COMPANY,</hi> and the New <hi>SUBSCRIBERS</hi> or <hi>PETITIONERS</hi> againſt them.</head>
+            <p>IN their Petition, they are pleaſed to ſet forth, That by the mani<g ref="char:EOLhyphen"/>fold Abuſes, and unlawful Practices of the preſent <hi>Eaſt India Com<g ref="char:EOLhyphen"/>pany,</hi> both at home and abroad, having managed the ſame only to their preſent Gain, the ſaid <hi>Trade</hi> is like to be utterly loſt to this <hi>Kingdom,</hi> and to fall into the Hands of <hi>Forreigners;</hi> and that nothing but a better Regulation on a <hi>new Joynt Stock</hi> and <hi>Conſtitution,</hi> can prevent it, which, whether true, as is ſuggeſted, muſt appear in the Exa<g ref="char:EOLhyphen"/>mination of the Particulars as followeth:</p>
+            <p n="1">I. <hi>Whether the preſent</hi> Eaſt India Company <hi>are guilty of ſuch unlawful Practices as is here ſet forth?</hi>
+            </p>
+            <p n="2">II. <hi>Whether if they were ſo, that thereby the Trade is like to be utterly loſt, or fall into the Hands of</hi> Forreigners?</p>
+            <p n="3">III. <hi>Whether nothing but a Regulation founded on a New Joynt Stock, can prevent it?</hi>
+            </p>
+            <p>For the firſt of theſe, the Abuſes and unlawful Practices charged upon them, they are particularly enumerated in thoſe Thirteen Articles contain<g ref="char:EOLhyphen"/>ed in a Paper ſo ſtiled, and delivered to the Members of the Honourable Houſe of Commons, to every of which there is a particular Anſwer al<g ref="char:EOLhyphen"/>ready given in Print, which is therein humbly ſubmitted to the Judgment of thoſe Honourable Members of that Houſe, and is ſuch as is humbly conceived will give them, and with them, all Impartial Perſons ſuch Sa<g ref="char:EOLhyphen"/>tisfaction, as to clear the <hi>preſent Company,</hi> in their thoughts, from being guilty of ſuch horrid Crimes as they would repreſent them to be in that Paper.</p>
+            <p>But then Secondly, were their Crimes ſo black as theſe Gentlemen would repreſent them, which is utterly denied, and that Anſwer clearly evinceth; it doth not therefore follow, as the Petition doth ſuggeſt, That the Trade would be utterly loſt to the Nation, without the Remedy of a new Joynt Stock.</p>
+            <p>For Firſt, Which of their Crimes there enumerated, if they were Crimes, which they are not, are ſuch as muſt by neceſſary Conſequence,
+<pb n="2" facs="tcp:35091:2"/>bring along with it the loſs of the Trade to the Nation: Is not that Trade now enjoy'd by <hi>England,</hi> notwithſtanding all their ſuppoſed Crimes, in as ample a manner as by any of our Neighbour-Nations? Have not the Com<g ref="char:EOLhyphen"/>pany had, within this Eighteen Months, Thirteen Ships with conſiderable Loading come home, notwithſtanding the War in <hi>India</hi> was not then made an end of? Are they not ready, and have prepar'd a very conſider<g ref="char:EOLhyphen"/>able Fleet and Cargo for thoſe Parts, to ſail the very next Seaſon? So that the Trade is not yet loſt, nor, God be thanked, in danger ſo to be, unleſs occaſioned by our Differences here at home, as to the management of it: Which leadeth to the Enquiry into the laſt part of the Objection, Whether no way be leſt to preſerve the Loſs of this Trade to the Nation, but a New Joynt Stock? Or, in truth, whether the preſent Adventurers, or a New Joynt Stock, are like beſt to preſerve it? And to make this good, they muſt make appear, That their New Regulations to be put in<g ref="char:EOLhyphen"/>to an Act, for the Erecting a New Company, are ſuch which cannot be put into an Act for the Eſtabliſhment of the Old; which it is believed the preſent Subſcribers will never be able to do: And that being true, and the preſent Company having in their <hi>Petition to the Honourable Houſe of Commons,</hi> humbly ſubmitted themſelves to ſuch Regulations and Alte<g ref="char:EOLhyphen"/>rations as they ſhould think meet. It is clear, That ſince both the Old and the New, are equally ſubject to a Regulation, the Old hath cer<g ref="char:EOLhyphen"/>tainly the Advantage, both as to the Continuance, and Preſervation of the Trade to the Nation in many Reſpects.</p>
+            <p n="1">1. In that they have their ſeveral Reſidencies in <hi>India,</hi> both as to the carrying on of the Trade, and the protecting of it ſo carried on, which, if a New Company be Erected, a conſiderable time muſt be elapſed, not<g ref="char:EOLhyphen"/>withſtanding the greateſt diligence they can make uſe of, before they can be ſo ſettled, as the preſent Company now are. And in the mean time, the Trade muſt neceſſarily ſuffer great Interruption, even to the hazard<g ref="char:EOLhyphen"/>ing of it to other Nations, which they pretend would be, by a Continu<g ref="char:EOLhyphen"/>ance upon the Old Foundation.</p>
+            <p n="2">2. The preſent Company have their Factors and Councils already fixed at their ſeveral Reſidencies, ſo as to carry on the Trade without the leaſt Interruption: Whereas in a New Stock, it muſt require a conſiderable time, though they ſhould build upon the Foundation of the preſent <hi>Eaſt India Company</hi> (which how juſt and equitable that would be, is left to Impartial Conſideration): And during this Interruption, while matters are adjuſting betwixt the New Stock and the Old, the Trade muſt neceſ<g ref="char:EOLhyphen"/>ſarily ſuffer greater Detriment, then when carried on upon the Foundati<g ref="char:EOLhyphen"/>on of the Old Stock, under ſuch Regulations as the <hi>Honourable Houſe of Commons</hi> ſhall think fit, which is by their <hi>Petition</hi> humbly ſubmitted to them.</p>
+            <p n="3">3. The Peace is now made betwixt the <hi>Great Mogul</hi> and the <hi>Preſent Company,</hi> with very advantagious <hi>Articles</hi> for the carrying on of the Trade, which how far <hi>He</hi> is obliged to make good to <hi>a New Company,</hi> is worthy Conſideration, eſpecially if we conſider the Avaritious Temper of that <hi>Court,</hi> which may reaſonably be ſuſpected will expect a very con<g ref="char:EOLhyphen"/>ſiderable Sum of Money, call it what you will, <hi>a Preſent,</hi> or otherwiſe, before they will confirm them, to a <hi>New Society,</hi> which is ſo much Loſs to the Nation, and will be ſaved by continuing the <hi>Old Foundation.</hi>
+            </p>
+            <pb n="3" facs="tcp:35091:2"/>
+            <p>In theſe, and many other particulars which might be here enumerated, were it not the deſign of this Paper to be ſhort, it is apparent, That the <hi>Trade of India</hi> may be carried on with leſs interruption and prejudice to the <hi>Nation</hi> by the <hi>preſent eſtabliſhed Company</hi> under ſuch <hi>Regulation</hi> and <hi>Alterations</hi> as the <hi>Honourable Houſe of Commons</hi> ſhall think fit, which is by them humbly ſubmitted to, than by any <hi>Eſtabliſhment</hi> upon the Foun<g ref="char:EOLhyphen"/>dation of a <hi>New Joynt-Stock,</hi> which can admit of no other Regulation or Alteration than the <hi>Eſtabliſhment upon the Old Foundation may,</hi> which being ſo clear as not well to be denied, then it followeth, That it is not becauſe the ſaid <hi>Trade</hi> may be better carried on to a <hi>more National Ad<g ref="char:EOLhyphen"/>vantage</hi> upon a <hi>New Foundation</hi> than the <hi>Old,</hi> that is the true cauſe why theſe Gentlemen are ſo importunate to have the Old Company deſtroyed, and one wholly New erected; but, that the Trade may be taken out of the hands of <hi>the preſent Company,</hi> and given to <hi>them;</hi> which how agree<g ref="char:EOLhyphen"/>able it is to Juſtice and Equity, will appear by the few following Conſi<g ref="char:EOLhyphen"/>derations.</p>
+            <p n="1">I. The Improvement that hath been made in this <hi>Trade</hi> to the Advan<g ref="char:EOLhyphen"/>tage of <hi>England,</hi> which is by all acknowledged to be very great, hath been made upon the Foundation of the <hi>preſent Stock,</hi> and at its Charge, which is known to all to have been vaſtly great: Therefore why it ſhould be now taken from <hi>that Stock,</hi> and veſted in <hi>a new one,</hi> ſince as before no Regulations can be put upon a new Stock which may not be ſubjoyned to the old, is the Queſtion: For it muſt be acknowledged that the <hi>pre<g ref="char:EOLhyphen"/>ſent Adventurers</hi> are in every reſpect as capable of managing it to as great National Advantage, as any <hi>new pretenders</hi> can be.</p>
+            <p n="2">II. The <hi>Pepper Trade,</hi> which is of ſo great Advantage to this <hi>Nation,</hi> had been wholly loſt as to <hi>England</hi> after the taking of <hi>Bantam</hi> by the <hi>Dutch,</hi> had not the then <hi>Managers</hi> of the preſent <hi>Stock</hi> with great Cou<g ref="char:EOLhyphen"/>rage and Conduct, and at a vaſt Charge, regain'd it, by erecting a <hi>Set<g ref="char:EOLhyphen"/>tlement</hi> on the other ſide of the <hi>Iſland of Sumatra</hi> at <hi>Bencoolen,</hi> other<g ref="char:EOLhyphen"/>wiſe called <hi>York Fort;</hi> which Settlement alone hath already ſtood the pre<g ref="char:EOLhyphen"/>ſent Company in above 200000 <abbr>
+                  <hi>l.</hi>
+               </abbr> charge, and they have not as yet en<g ref="char:EOLhyphen"/>joyed it ſo long, as that the benefit to them doth amount to a quarter-part of the Intereſt of their Monies: And that the <hi>preſent Stock</hi> having at ſo vaſt a Charge retrieved a <hi>Trade</hi> as good as wholly loſt to <hi>England,</hi> which may in time by modeſt computation bring an Income to the <hi>Crown</hi> of 50000 <hi>
+                  <abbr>l.</abbr> per Annum,</hi> beſides other Advantages to the <hi>Nation,</hi> as to Exportation of the ſaid Commodity to <hi>Foreign Parts,</hi> ſhould be now outed of it, and the Inheritance given to another, is no ways, as is humbly conceived, agreeable to Juſtice and Equity.</p>
+            <p n="3">III. The <hi>War in India</hi> (notwithſtanding all the Suggeſtions of their <hi>Adverſaries</hi>) was entred into by the <hi>preſent Company</hi> upon moſt juſt grounds, and under a <hi>Lawful Authority;</hi> was carried on at the vaſt charge of the <hi>preſent Stock,</hi> who neither had, nor could have any other Deſign in it, than to vindicate the <hi>Engliſh Nation</hi> from the Inſults and Injuries of the <hi>Indians;</hi> and now the <hi>Peace</hi> is juſt made at their further charge, how far it is agreeable to Reaſon and Juſtice, that the <hi>preſent Stock</hi> ſhould be outed, and the <hi>Trade</hi> given to <hi>others,</hi> before the ſaid <hi>Stock</hi> hath re<g ref="char:EOLhyphen"/>ceived
+<pb n="4" facs="tcp:35091:3"/>any Advantage by it, is humbly ſubmitted to the Judgment of Per<g ref="char:EOLhyphen"/>ſons unconcerned.</p>
+            <p>But it is Objected by the <hi>Adverſaries</hi> of the <hi>preſent Company,</hi> That <hi>they</hi> have enjoyed the <hi>Trade</hi> now upwards of 30 <hi>Years,</hi> and therefore it is fit <hi>a new Company</hi> ſhould be erected.</p>
+            <p>The <hi>Anſwer</hi> to this <hi>common Objection</hi> ſhall conclude this <hi>Paper;</hi> in order to which, <hi>diſtinction</hi> muſt be made between the <hi>preſent Stock</hi> and the <hi>pre<g ref="char:EOLhyphen"/>ſent Adventurers.</hi> As to the <hi>preſent Stock,</hi> it is true, it hath continued upwards of 30 Years: But therefore it doth not follow, that the <hi>preſent Adventurers,</hi> in whoſe hands they would now deſtroy it, have enjoyed it ſo long; many if not moſt of them having come into it within this laſt <hi>half ſcore Years,</hi> have not made ſuch great Advantages of it, as is generally ſurmiſed, by reaſon of the late Wars both there and here. There between the <hi>Mogul</hi> and King of <hi>Golconda,</hi> and the <hi>Mogul</hi> and Com<g ref="char:EOLhyphen"/>pany; Here with the <hi>French,</hi> whereby their Trade hath been much ob<g ref="char:EOLhyphen"/>ſtructed; and alſo the great Mortality of the <hi>Indians</hi> by a late Conta<g ref="char:EOLhyphen"/>gion amongſt them. But that which is more conſiderable in Anſwer to this Objection is this, That many of the <hi>New Subſcribers,</hi> who would now have the Trade taken out of the hands of the <hi>preſent Adventurers,</hi> and put into their <hi>own,</hi> upon pretence that the <hi>preſent Adventurers</hi> have enjoyed it long enough, are ſuch, who having been formerly of the <hi>Com<g ref="char:EOLhyphen"/>pany,</hi> and enjoyed the benefit of this <hi>Stock</hi> when the <hi>Trade</hi> was of greateſt Advantage for many Years. Having now after ſo many Years enjoying the benefit of it, <hi>Sold</hi> themſelves <hi>out</hi> at very high <hi>Rates,</hi> and thereby put it into the hands of the <hi>preſent Adventurers;</hi> and would now notwith<g ref="char:EOLhyphen"/>ſtanding they have received their Money for it, <hi>dam it</hi> in the hands of thoſe <hi>Perſons</hi> to whom they <hi>Sold it,</hi> which is equally juſt, as if one ha<g ref="char:EOLhyphen"/>ving Sold his Houſe to another for a Valuable Conſideration, after having received the ſame, ſhould by himſelf, or by the means of others, cauſe it to be fired: So that this <hi>Objection</hi> carrieth no weight of Reaſon in it, eſpecially coming out of the mouths of thoſe who have been of the pre<g ref="char:EOLhyphen"/>ſent Company, and enjoyed the Trade themſelves, before they Sold them<g ref="char:EOLhyphen"/>ſelves out of it.</p>
+            <p>The <hi>Concluſion of the whole is,</hi> That the <hi>preſent Adventurers</hi> having in their <hi>Petition</hi> to the <hi>Honourable Houſe of Commons,</hi> Humbly ſubmitted themſelves to ſuch <hi>Regulations</hi> and <hi>Alterations,</hi> as they in their great Wiſ<g ref="char:EOLhyphen"/>dom ſhall think meet; and there being no <hi>Alteration</hi> or <hi>Regulation</hi> but may be made as well by an <hi>Eſtabliſhment</hi> upon the <hi>Old Foundation</hi> as any <hi>New one.</hi> They do Humbly hope from the <hi>Juſtice</hi> and <hi>Equity</hi> of that <hi>Au<g ref="char:EOLhyphen"/>gust Aſſembly,</hi> that the <hi>preſent Stock</hi> ſhall not be deſtroyed in the hands of the <hi>preſent Adventurers,</hi> whereby many Poor, both Widows and Or<g ref="char:EOLhyphen"/>phans will be undone, and other Perſons, <hi>viz.</hi> many of the <hi>preſent Ad<g ref="char:EOLhyphen"/>venturers,</hi> much damnified in their <hi>Eſtates,</hi> who have no ways merited the ſame, meerly to put the <hi>Trade</hi> into the hands of <hi>other Perſons,</hi> who are no ways capable of making a better Advantage to the <hi>Nation</hi> of it, than the <hi>preſent Adventurers</hi> are.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
